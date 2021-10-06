@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y37ikLcAgSSG6F/fqICeu7D9KFzU2ca6moUQBH47poMNfyS+Z3xtCahV3d4Pmu2UaYigTHF0Hsrbf8F5LwglMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Or Ganon\\Desktop\\DelegatesWorkClass\\DelegateForm\\DelegateForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Or Ganon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

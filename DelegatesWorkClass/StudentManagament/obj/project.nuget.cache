@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M6mbuYp/dtkyyHBZ5FuCgBZLB0t5yCDWqB8+B+iSWbPyBB584pGPHg8QiiM+Z2V6njUHd3ReOo4eAeWD7JDfXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Or Ganon\\Desktop\\DelegatesWorkClass\\StudentManagament\\StudentManagament.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Or Ganon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

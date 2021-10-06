@@ -1,0 +1,16 @@
+C:\Users\Or Ganon\source\repos\DelegatesWorkClass\DelegatesWorkClass\bin\Debug\net5.0\DelegatesWorkClass.exe
+C:\Users\Or Ganon\source\repos\DelegatesWorkClass\DelegatesWorkClass\bin\Debug\net5.0\DelegatesWorkClass.deps.json
+C:\Users\Or Ganon\source\repos\DelegatesWorkClass\DelegatesWorkClass\bin\Debug\net5.0\DelegatesWorkClass.runtimeconfig.json
+C:\Users\Or Ganon\source\repos\DelegatesWorkClass\DelegatesWorkClass\bin\Debug\net5.0\DelegatesWorkClass.runtimeconfig.dev.json
+C:\Users\Or Ganon\source\repos\DelegatesWorkClass\DelegatesWorkClass\bin\Debug\net5.0\DelegatesWorkClass.dll
+C:\Users\Or Ganon\source\repos\DelegatesWorkClass\DelegatesWorkClass\bin\Debug\net5.0\ref\DelegatesWorkClass.dll
+C:\Users\Or Ganon\source\repos\DelegatesWorkClass\DelegatesWorkClass\bin\Debug\net5.0\DelegatesWorkClass.pdb
+C:\Users\Or Ganon\source\repos\DelegatesWorkClass\DelegatesWorkClass\obj\Debug\net5.0\DelegatesWorkClass.csproj.AssemblyReference.cache
+C:\Users\Or Ganon\source\repos\DelegatesWorkClass\DelegatesWorkClass\obj\Debug\net5.0\DelegatesWorkClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Or Ganon\source\repos\DelegatesWorkClass\DelegatesWorkClass\obj\Debug\net5.0\DelegatesWorkClass.AssemblyInfoInputs.cache
+C:\Users\Or Ganon\source\repos\DelegatesWorkClass\DelegatesWorkClass\obj\Debug\net5.0\DelegatesWorkClass.AssemblyInfo.cs
+C:\Users\Or Ganon\source\repos\DelegatesWorkClass\DelegatesWorkClass\obj\Debug\net5.0\DelegatesWorkClass.csproj.CoreCompileInputs.cache
+C:\Users\Or Ganon\source\repos\DelegatesWorkClass\DelegatesWorkClass\obj\Debug\net5.0\DelegatesWorkClass.dll
+C:\Users\Or Ganon\source\repos\DelegatesWorkClass\DelegatesWorkClass\obj\Debug\net5.0\ref\DelegatesWorkClass.dll
+C:\Users\Or Ganon\source\repos\DelegatesWorkClass\DelegatesWorkClass\obj\Debug\net5.0\DelegatesWorkClass.pdb
+C:\Users\Or Ganon\source\repos\DelegatesWorkClass\DelegatesWorkClass\obj\Debug\net5.0\DelegatesWorkClass.genruntimeconfig.cache
